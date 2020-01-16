@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="enterpriseRoleManager_web" />
-        <module name="enterpriseRoleManager_util" />
-        <module name="enterpriseRoleManager_service" />
-        <module name="enterpriseRoleManager_domain" />
         <module name="enterpriseRoleManager_dao" />
+        <module name="enterpriseRoleManager_service" />
+        <module name="enterpriseRoleManager_web" />
+        <module name="enterpriseRoleManager_domain" />
+        <module name="enterpriseRoleManager_util" />
       </profile>
     </annotationProcessing>
   </component>
